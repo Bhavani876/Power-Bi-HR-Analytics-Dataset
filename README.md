@@ -2,6 +2,9 @@
 
 ###
 
+![Screenshot (260)](https://github.com/Bhavani876/Power-Bi-HR-Analytics-Dataset/assets/122962752/b00dcd5a-2d4e-4a63-9794-2253f1155a6d)
+
+
 <h2 align="left">Project Description:</h2>
 
 ###
